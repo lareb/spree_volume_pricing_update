@@ -5,7 +5,7 @@ require 'spree_volume_pricing/version'
 
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
-  s.name        = 'spree_volume_pricing'
+  s.name        = 'spree_volume_pricing_update'
   s.version     = SpreeVolumePricing.version
   s.summary     = 'Allow prices to be configured in quantity ranges for each variant'
   s.description = s.summary
